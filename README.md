@@ -9,3 +9,6 @@ Our app has a frontend, which connects to a GPS signal and tracks a given car's 
 https://www.youtube.com/watch?v=G3tUnQWzXzw
 
 https://devpost.com/software/drive-sense
+
+![Processed Image](processed.png)
+
